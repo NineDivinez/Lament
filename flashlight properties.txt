@@ -1,0 +1,14 @@
+25 - 49
+50 - 74
+75 - 99
+100 - 124
+125 - 149
+150 - 174
+
+property (aggroTier) returns aggroLevel
+returns int of aggroLevel /25
+aggroChange = rndAggro
+if aggroChange > 0
+switch aggroTier
+
+default anything over 3

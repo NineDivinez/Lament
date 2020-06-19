@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 48079e4085bb77c4389f8eb0c57922ba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body1
+    100002: Body2
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.002_end
+    100012: Bone.003
+    100014: Bone.004
+    100016: Bone.004_end
+    100018: Bone.005
+    100020: Bone.006
+    100022: Bone.007
+    100024: Bone.007_end
+    100026: Bone.008
+    100028: Bone.008_end
+    100030: Bone.009
+    100032: Bone.009_end
+    100034: Control
+    100036: Empty
+    100038: Empty.001
+    100040: Head1
+    100042: //RootNode
+    100044: Nead2
+    100046: Neck
+    100048: NurbsPath
+    100050: Plane
+    100052: RetopoGroup1.001
+    100054: RetopoGroup1.003
+    100056: RetopoGroup1.004
+    100058: RetopoGroup1.005
+    100060: RetopoGroup1.006
+    100062: RetopoGroup1.008
+    100064: RetopoGroup1.013
+    100066: RetopoGroup1.017
+    100068: Tail1
+    100070: Tail2
+    100072: Tail2.001
+    100074: Tail2.001_end
+    100076: Wing 1  .R
+    400000: Body1
+    400002: Body2
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.002_end
+    400012: Bone.003
+    400014: Bone.004
+    400016: Bone.004_end
+    400018: Bone.005
+    400020: Bone.006
+    400022: Bone.007
+    400024: Bone.007_end
+    400026: Bone.008
+    400028: Bone.008_end
+    400030: Bone.009
+    400032: Bone.009_end
+    400034: Control
+    400036: Empty
+    400038: Empty.001
+    400040: Head1
+    400042: //RootNode
+    400044: Nead2
+    400046: Neck
+    400048: NurbsPath
+    400050: Plane
+    400052: RetopoGroup1.001
+    400054: RetopoGroup1.003
+    400056: RetopoGroup1.004
+    400058: RetopoGroup1.005
+    400060: RetopoGroup1.006
+    400062: RetopoGroup1.008
+    400064: RetopoGroup1.013
+    400066: RetopoGroup1.017
+    400068: Tail1
+    400070: Tail2
+    400072: Tail2.001
+    400074: Tail2.001_end
+    400076: Wing 1  .R
+    2100000: No Name
+    2100002: Material.002
+    2100004: Material.003
+    2300000: NurbsPath
+    2300002: Plane
+    2300004: RetopoGroup1.001
+    2300006: RetopoGroup1.003
+    3300000: NurbsPath
+    3300002: Plane
+    3300004: RetopoGroup1.001
+    3300006: RetopoGroup1.003
+    4300000: Plane
+    4300002: NurbsPath
+    4300004: RetopoGroup1.003
+    4300006: RetopoGroup1.001
+    4300008: RetopoGroup1.006
+    4300010: RetopoGroup1.005
+    4300012: RetopoGroup1.008
+    4300014: RetopoGroup1.013
+    4300016: RetopoGroup1.017
+    4300018: RetopoGroup1.004
+    7400000: Scene
+    9500000: //RootNode
+    13700000: RetopoGroup1.004
+    13700002: RetopoGroup1.005
+    13700004: RetopoGroup1.006
+    13700006: RetopoGroup1.008
+    13700008: RetopoGroup1.013
+    13700010: RetopoGroup1.017
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: adf080534821c59438feb172443ee77d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Layer 1
+    100006: Light
+    100008: Mirrored
+    100010: s.156a4a9b-433b-4b06-b20f-aaaafc53f3da
+    100012: s.1b48eacf-5534-4cad-b63a-1f425912cdab
+    100014: s.3a890f85-bd3b-4123-9ced-a2a82f407bd6
+    100016: s.475b6711-f36e-4b5c-819d-11e3f6c6f19d
+    100018: s.58435722-73f5-4766-96cb-9beaf3339841
+    100020: s.5bfce68e-767a-4bba-820a-b05aa69c672f
+    100022: s.799f1b66-51c2-41cd-8e81-ae88c02d14a1
+    100024: s.88cb1746-3a13-4eb4-a621-b241988e4abc
+    100026: s.93a8009e-6f43-4b8e-aa3b-c394e3f3f9dc
+    100028: s.96f4abfd-4898-47e5-be25-994db115cb9d
+    100030: s.9c2c9980-f079-48df-8e76-0f28fbcc4b20
+    100032: s.b123d556-51f5-4d31-a44c-771b13223c17
+    100034: s.b9091f80-3e47-4a72-878f-52e3e9b9bf57
+    100036: s.bafd565e-d22c-4ecd-927f-96714a01aadf
+    100038: s.c1b747e6-3abe-441e-bb08-f4018782830a
+    100040: s.d193f53a-c82c-4282-b934-5348dfa53c67
+    100042: s.e15b3e59-df2a-4bd2-90e9-eadfe48f0736
+    100044: s.f37f6c4c-db3f-4120-ab1c-96cef2070e53
+    100046: s.fdb27769-d79d-4e24-bd00-45df63dcdc7f
+    100048: s.ffb58822-870b-4a12-b789-cebc564dcfa0
+    400000: Camera
+    400002: //RootNode
+    400004: Layer 1
+    400006: Light
+    400008: Mirrored
+    400010: s.156a4a9b-433b-4b06-b20f-aaaafc53f3da
+    400012: s.1b48eacf-5534-4cad-b63a-1f425912cdab
+    400014: s.3a890f85-bd3b-4123-9ced-a2a82f407bd6
+    400016: s.475b6711-f36e-4b5c-819d-11e3f6c6f19d
+    400018: s.58435722-73f5-4766-96cb-9beaf3339841
+    400020: s.5bfce68e-767a-4bba-820a-b05aa69c672f
+    400022: s.799f1b66-51c2-41cd-8e81-ae88c02d14a1
+    400024: s.88cb1746-3a13-4eb4-a621-b241988e4abc
+    400026: s.93a8009e-6f43-4b8e-aa3b-c394e3f3f9dc
+    400028: s.96f4abfd-4898-47e5-be25-994db115cb9d
+    400030: s.9c2c9980-f079-48df-8e76-0f28fbcc4b20
+    400032: s.b123d556-51f5-4d31-a44c-771b13223c17
+    400034: s.b9091f80-3e47-4a72-878f-52e3e9b9bf57
+    400036: s.bafd565e-d22c-4ecd-927f-96714a01aadf
+    400038: s.c1b747e6-3abe-441e-bb08-f4018782830a
+    400040: s.d193f53a-c82c-4282-b934-5348dfa53c67
+    400042: s.e15b3e59-df2a-4bd2-90e9-eadfe48f0736
+    400044: s.f37f6c4c-db3f-4120-ab1c-96cef2070e53
+    400046: s.fdb27769-d79d-4e24-bd00-45df63dcdc7f
+    400048: s.ffb58822-870b-4a12-b789-cebc564dcfa0
+    2000000: Camera
+    2100000: Standard_737373
+    2100002: Standard_FFFFFF
+    2100004: Standard_CD4319
+    2300000: s.156a4a9b-433b-4b06-b20f-aaaafc53f3da
+    2300002: s.1b48eacf-5534-4cad-b63a-1f425912cdab
+    2300004: s.3a890f85-bd3b-4123-9ced-a2a82f407bd6
+    2300006: s.475b6711-f36e-4b5c-819d-11e3f6c6f19d
+    2300008: s.58435722-73f5-4766-96cb-9beaf3339841
+    2300010: s.5bfce68e-767a-4bba-820a-b05aa69c672f
+    2300012: s.799f1b66-51c2-41cd-8e81-ae88c02d14a1
+    2300014: s.88cb1746-3a13-4eb4-a621-b241988e4abc
+    2300016: s.93a8009e-6f43-4b8e-aa3b-c394e3f3f9dc
+    2300018: s.96f4abfd-4898-47e5-be25-994db115cb9d
+    2300020: s.9c2c9980-f079-48df-8e76-0f28fbcc4b20
+    2300022: s.b123d556-51f5-4d31-a44c-771b13223c17
+    2300024: s.b9091f80-3e47-4a72-878f-52e3e9b9bf57
+    2300026: s.bafd565e-d22c-4ecd-927f-96714a01aadf
+    2300028: s.c1b747e6-3abe-441e-bb08-f4018782830a
+    2300030: s.d193f53a-c82c-4282-b934-5348dfa53c67
+    2300032: s.e15b3e59-df2a-4bd2-90e9-eadfe48f0736
+    2300034: s.f37f6c4c-db3f-4120-ab1c-96cef2070e53
+    2300036: s.fdb27769-d79d-4e24-bd00-45df63dcdc7f
+    2300038: s.ffb58822-870b-4a12-b789-cebc564dcfa0
+    3300000: s.156a4a9b-433b-4b06-b20f-aaaafc53f3da
+    3300002: s.1b48eacf-5534-4cad-b63a-1f425912cdab
+    3300004: s.3a890f85-bd3b-4123-9ced-a2a82f407bd6
+    3300006: s.475b6711-f36e-4b5c-819d-11e3f6c6f19d
+    3300008: s.58435722-73f5-4766-96cb-9beaf3339841
+    3300010: s.5bfce68e-767a-4bba-820a-b05aa69c672f
+    3300012: s.799f1b66-51c2-41cd-8e81-ae88c02d14a1
+    3300014: s.88cb1746-3a13-4eb4-a621-b241988e4abc
+    3300016: s.93a8009e-6f43-4b8e-aa3b-c394e3f3f9dc
+    3300018: s.96f4abfd-4898-47e5-be25-994db115cb9d
+    3300020: s.9c2c9980-f079-48df-8e76-0f28fbcc4b20
+    3300022: s.b123d556-51f5-4d31-a44c-771b13223c17
+    3300024: s.b9091f80-3e47-4a72-878f-52e3e9b9bf57
+    3300026: s.bafd565e-d22c-4ecd-927f-96714a01aadf
+    3300028: s.c1b747e6-3abe-441e-bb08-f4018782830a
+    3300030: s.d193f53a-c82c-4282-b934-5348dfa53c67
+    3300032: s.e15b3e59-df2a-4bd2-90e9-eadfe48f0736
+    3300034: s.f37f6c4c-db3f-4120-ab1c-96cef2070e53
+    3300036: s.fdb27769-d79d-4e24-bd00-45df63dcdc7f
+    3300038: s.ffb58822-870b-4a12-b789-cebc564dcfa0
+    4300000: s.88cb1746-3a13-4eb4-a621-b241988e4abc
+    4300002: s.475b6711-f36e-4b5c-819d-11e3f6c6f19d
+    4300004: s.b123d556-51f5-4d31-a44c-771b13223c17
+    4300006: s.9c2c9980-f079-48df-8e76-0f28fbcc4b20
+    4300008: s.96f4abfd-4898-47e5-be25-994db115cb9d
+    4300010: s.3a890f85-bd3b-4123-9ced-a2a82f407bd6
+    4300012: s.156a4a9b-433b-4b06-b20f-aaaafc53f3da
+    4300014: s.799f1b66-51c2-41cd-8e81-ae88c02d14a1
+    4300016: s.e15b3e59-df2a-4bd2-90e9-eadfe48f0736
+    4300018: s.ffb58822-870b-4a12-b789-cebc564dcfa0
+    4300020: s.5bfce68e-767a-4bba-820a-b05aa69c672f
+    4300022: s.d193f53a-c82c-4282-b934-5348dfa53c67
+    4300024: s.b9091f80-3e47-4a72-878f-52e3e9b9bf57
+    4300026: s.c1b747e6-3abe-441e-bb08-f4018782830a
+    4300028: s.58435722-73f5-4766-96cb-9beaf3339841
+    4300030: s.f37f6c4c-db3f-4120-ab1c-96cef2070e53
+    4300032: s.fdb27769-d79d-4e24-bd00-45df63dcdc7f
+    4300034: s.1b48eacf-5534-4cad-b63a-1f425912cdab
+    4300036: s.93a8009e-6f43-4b8e-aa3b-c394e3f3f9dc
+    4300038: s.bafd565e-d22c-4ecd-927f-96714a01aadf
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
